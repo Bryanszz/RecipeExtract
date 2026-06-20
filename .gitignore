@@ -1,0 +1,36 @@
+# Built outputs
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# Build folders
+/build
+/app/build
+/app/release
+/captures
+
+# Local configuration file (SDK path, API keys)
+local.properties
+
+# Android Studio
+*.iml
+.gradle
+.idea
+.navigation
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Native builds
+.externalNativeBuild
+.cxx
+
+# Keystore files (never commit signing keys)
+*.jks
+*.keystore
+
+# Log files
+*.log

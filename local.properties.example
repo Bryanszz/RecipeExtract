@@ -1,0 +1,8 @@
+# Copy this file to local.properties and add your API key
+# Do NOT commit local.properties to GitHub
+
+# Android SDK path (auto-detected by Android Studio)
+# sdk.dir=/path/to/your/android/sdk
+
+# Qwen API Key (get yours at https://dashscope.console.aliyun.com/)
+QWEN_API_KEY=your_api_key_here
